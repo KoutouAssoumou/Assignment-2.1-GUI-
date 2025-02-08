@@ -1,0 +1,20 @@
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\bin\Debug\MS539 fisgth 1-22-25.exe.config
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\bin\Debug\MS539 fisgth 1-22-25.exe
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\bin\Debug\MS539 fisgth 1-22-25.pdb
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\obj\Debug\MS539 fisgth 1-22-25.csproj.AssemblyReference.cache
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\obj\Debug\MS539_fisgth_1_22_25.Form1.resources
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\obj\Debug\MS539_fisgth_1_22_25.Properties.Resources.resources
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\obj\Debug\MS539 fisgth 1-22-25.csproj.GenerateResource.cache
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\obj\Debug\MS539 fisgth 1-22-25.csproj.CoreCompileInputs.cache
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\obj\Debug\MS539 fisgth 1-22-25.exe
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\obj\Debug\MS539 fisgth 1-22-25.pdb
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\project\bin\Debug\MS539 fisgth 1-22-25.exe.config
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\project\bin\Debug\MS539 fisgth 1-22-25.exe
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\project\bin\Debug\MS539 fisgth 1-22-25.pdb
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\project\obj\Debug\MS539 fisgth 1-22-25.csproj.AssemblyReference.cache
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\project\obj\Debug\MS539_fisgth_1_22_25.Form1.resources
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\project\obj\Debug\MS539_fisgth_1_22_25.Properties.Resources.resources
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\project\obj\Debug\MS539 fisgth 1-22-25.csproj.GenerateResource.cache
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\project\obj\Debug\MS539 fisgth 1-22-25.csproj.CoreCompileInputs.cache
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\project\obj\Debug\MS539 fisgth 1-22-25.exe
+C:\Users\assou\source\repos\MS539 fisgth 1-22-25\project\obj\Debug\MS539 fisgth 1-22-25.pdb
